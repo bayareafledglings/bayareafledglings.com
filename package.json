@@ -1,5 +1,5 @@
 {
-  "name": "tmp-cpa",
+  "name": "bayareafledglings",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@plasmicapp/host": "^0.0.14",
-    "@plasmicapp/loader": "^0.0.58",
-    "@plasmicapp/react-web": "^0.2.65",
+    "@plasmicapp/loader-nextjs": "^1.0.30",
     "@types/react": "^17.0.14",
     "next": "11.0.1",
     "react": "17.0.2",
